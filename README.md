@@ -5,7 +5,7 @@
 
 - 🗓️ [Life after school](https://github.com/dancea-daniel/LifeAfterSchool) an event organizing application, using QT framework, implemented in C++ 
 
-- 🃏 [Gwent-Witcher3](https://github.com/dancea-daniel/gwentReplica) a personal recreation of the famous Witcher 3 card game, built in Unity Engine 
+- 🃏 [Gwent-Witcher3](https://github.com/dancea-daniel/MyGwentCopy) a personal recreation of the famous Witcher 3 card game, built in Unity Engine 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
